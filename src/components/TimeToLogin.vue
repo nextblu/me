@@ -37,7 +37,7 @@ export default {
 </script>
 
 <style>
-    html {
+    /*html {
         height: 100%;
     }
     body {
@@ -63,7 +63,7 @@ export default {
     }
     p {
         margin: 0px;
-    }
+    }*/
     .profile-card {
         background: #FFB300;
         width: 56px;
