@@ -1,20 +1,23 @@
 <template>
   <div>
-    <hero />
+    <!--<hero />
     <hr />
-    <home-content />
+    <home-content />-->
+    <time-to-login />
   </div>
 </template>
 
 <script>
 import Hero from "../components/Hero";
 import HomeContent from "../components/HomeContent";
+import TimeToLogin from "../components/TimeToLogin";
 
 export default {
   name: "home",
   components: {
     Hero,
-    HomeContent
+    HomeContent,
+    TimeToLogin
   }
 };
 </script>

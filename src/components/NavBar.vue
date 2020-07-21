@@ -2,7 +2,10 @@
   <div class="nav-container mb-3">
     <nav class="navbar navbar-expand-md navbar-light bg-light">
       <div class="container">
-        <div class="navbar-brand logo"></div>
+        <div class="navbar-brand">
+          <img src="https://www.nextblu.com/img/favicon.png" alt="logo" width="30">
+          NextBlu
+        </div>
         <button
           class="navbar-toggler"
           type="button"
