@@ -1,9 +1,8 @@
 <template>
   <div>
-    <!--<hero />
-    <hr />
-    <home-content />-->
-    <time-to-login />
+    <hero />
+    <!-- <home-content />
+    <time-to-login /> -->
   </div>
 </template>
 

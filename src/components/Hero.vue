@@ -1,12 +1,9 @@
 <template>
   <div class="text-center hero">
-    <img class="mb-3 app-logo" src="/logo.png" alt="Vue.js logo" width="120" />
-    <h1 class="mb-4">NextBlu</h1>
+    <img class="mb-3 app-logo" src="https://www.nextblu.com/img/favicon.png" alt="NextBlu logo" width="120" />
+    <h1 class="mb-4">me</h1>
     <p class="lead">
-      This is a sample application that demonstrates an authentication flow for an SPA, using
-      <a
-        href="https://vuejs.org"
-      >Vue.js</a>
+      The lightning fast method to interact with NextBlu.
     </p>
   </div>
 </template>
@@ -16,3 +13,7 @@ export default {
   name: "Hero"
 };
 </script>
+
+<style scoped>
+
+</style>

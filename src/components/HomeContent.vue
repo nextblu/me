@@ -1,6 +1,6 @@
 <template>
   <div class="next-steps">
-    <h2 class="my-5 text-center">What can I do next?</h2>
+    <h2 class="my-5 text-center">How does it works like?</h2>
 
     <div class="row">
       <div class="col-md-5 mb-4">

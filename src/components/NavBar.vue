@@ -23,6 +23,9 @@
             <li class="nav-item">
               <router-link to="/" class="nav-link">Home</router-link>
             </li>
+            <li class="nav-item">
+              <router-link to="/profile" class="nav-link">Profile</router-link>
+            </li>
           </ul>
           <ul class="navbar-nav d-none d-md-block">
             <li v-if="!$auth.isAuthenticated && !$auth.loading" class="nav-item">

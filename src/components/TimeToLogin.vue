@@ -37,40 +37,13 @@ export default {
 </script>
 
 <style>
-    /*html {
-        height: 100%;
-    }
-    body {
-        background: #222222 url("https://source.unsplash.com/collection/1123640/1600x900") no-repeat center center fixed;
-        background-size: cover;
-        position: fixed;
-        padding: 0px;
-        margin: 0px;
-        width: 100%;
-        height: 100%;
-        font: normal 14px/1.618em "Roboto", sans-serif;
-        -webkit-font-smoothing: antialiased;
-    }
-    h1, h2 {
-        font-weight: 400;
-        margin: 0px 0px 5px 0px;
-    }
-    h1 {
-        font-size: 24px;
-    }
-    h2 {
-        font-size: 16px;
-    }
-    p {
-        margin: 0px;
-    }*/
     .profile-card {
         background: #FFB300;
-        width: 56px;
-        height: 56px;
+        width: 60px;
+        height: 40px;
         position: absolute;
         left: 50%;
-        top: 50%;
+        top: 55%;
         z-index: 2;
         overflow: hidden;
         opacity: 0;
